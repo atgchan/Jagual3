@@ -22,6 +22,7 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="ActivitySelection.h" />
     <ClInclude Include="MatrixChain.h" />
     <ClInclude Include="RodCutting.h" />
     <ClInclude Include="ShortestPath.h" />

@@ -25,5 +25,8 @@
     <ClInclude Include="MatrixChain.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="ActivitySelection.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
