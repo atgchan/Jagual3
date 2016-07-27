@@ -28,5 +28,11 @@
     <ClInclude Include="ActivitySelection.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="Huffman.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LCS.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
